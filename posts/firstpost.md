@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: About Andrew Kowalski
+description: Andrew Kowalski is an advertising student at Iowa State University with an expected graduation date of May 14th, 2022.
 date: 2018-05-01
 tags:
   - another tag
