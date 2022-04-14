@@ -1,6 +1,6 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
+title: Resume
+description: This is a list of past jobs, internships, extra cirricular activities, and schools attended.
 date: 2018-08-24
 tags:
   - second tag
