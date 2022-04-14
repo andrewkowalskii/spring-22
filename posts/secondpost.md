@@ -1,6 +1,6 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
+title: Work Samples
+description: These are examples of work that I have done in previous internships, school projects, and extra cirricular activities.
 date: 2018-07-04
 tags:
   - number 2
