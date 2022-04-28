@@ -13,8 +13,6 @@ layout: layouts/post.njk
 This page includes Andrew Kowalski’s resume and lists all of his prior work experience.
 
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
 ``` js/2/4
 // this is a command
 function myCommand() {
