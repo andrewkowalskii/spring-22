@@ -1,19 +1,17 @@
 ---
 title: About Andrew Kowalski
 description: Andrew Kowalski is an advertising student at Iowa State University with an expected graduation date of May 14th, 2022.
-date: 2018-05-01
+date: 2022-04-25
 tags:
   - another tag
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## About Andrew Kowalski:
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Who is Andrew Kowalski? Andrew is a senior in Advertising at the Iowa State University Greenlee School of Journalism and Communications. He has experience in all areas of communications, strategy, creative advertising, and writing. This experience has led him to internships in the fields of communications, public relations, messaging, and startegic marketing. Outside of the classrom and office, Andrew is an avid distance runner and fan of all things sports. You can find him at any Iowa State football or basketball game as well as cheering on the Chicago Cubs. 
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Andrew takes pride in being a team player who can always be counted on to get high quality work accomplished. He's always looking to continue to learn new things and increase the level of his work.
 
 ```text/2-3
 // this is a command
